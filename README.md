@@ -1,6 +1,6 @@
 ### Hello, I'm Abir 👋
 
-
+![](https://komarev.com/ghpvc/?abiramee&color=0055ff)
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Android Development
 - 📫 How to reach me: [LinkedIn - @abiramee](https://www.linkedin.com/in/abiramee/), [Facebook - @hossain.amee](https://www.facebook.com/hossain.amee/)
