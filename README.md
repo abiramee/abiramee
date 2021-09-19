@@ -1,7 +1,7 @@
 ### Hello, I'm Abir 👋
 
 ```markdown
-![](https://komarev.com/ghpvc/abiramee)
+[](https://komarev.com/ghpvc/abiramee)
 ```
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about Android Development
